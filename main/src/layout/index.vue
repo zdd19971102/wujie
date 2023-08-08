@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-row>
-      <el-col :span="4">
+      <el-col :span="2">
         <el-menu
           default-active="1"
           class="el-menu-vertical-demo"
@@ -22,7 +22,7 @@
          
         </el-menu>
       </el-col>
-      <el-col :span="20">
+      <el-col :span="22">
         <div class="content" style="overflow-x: hidden">
           <appMain></appMain>
         </div>

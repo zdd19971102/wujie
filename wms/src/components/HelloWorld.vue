@@ -3,7 +3,7 @@
     clearable
     multiple
     collapse-tags
-    placeholder="Select2222">
+    placeholder="wms下拉框">
     <el-option
       v-for="item in options"
       :key="item.value"

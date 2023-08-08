@@ -3,9 +3,6 @@
     <WujieVue width="100%"  name="wms" :url="Url" :sync="true" :alive="true"
       :plugins="plugins"
       :props="{jump}"
-      :prefix="{
-
-      }"
       >
     </WujieVue>
   </div>

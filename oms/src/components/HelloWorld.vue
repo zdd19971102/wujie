@@ -3,7 +3,7 @@
      clearable
       multiple
       collapse-tags
-     filterable placeholder="Select1111">
+      filterable placeholder="oms下拉框">
     <el-option
       v-for="item in options"
       :key="item.value"
